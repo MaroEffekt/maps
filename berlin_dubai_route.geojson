@@ -855,23 +855,6 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Point",
-        "coordinates": [
-          55.364278,
-          25.254997,
-          0
-        ]
-      },
-      "properties": {
-        "name": "OMDB Airport",
-        "styleUrl": "#RedIcon",
-        "styleHash": "-3c8a9f81",
-        "description": "Dubai <br> Dubai<br><br>OMDB airport activity (live) (http://tr.flightaware.com/live/airport/OMDB)<br>OMDB airport information (http://tr.flightaware.com/resources/airport/OMDB)"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
         "type": "LineString",
         "coordinates": [
           [
@@ -5458,9 +5441,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          55.364278,
-          25.254997,
-          0
+          55.36019325256348,
+          25.25727191067978
         ]
       },
       "properties": {
