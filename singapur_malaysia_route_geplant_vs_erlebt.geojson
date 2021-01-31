@@ -14,7 +14,7 @@
       "properties": {
         "name": "Changi, Singapur",
         "marker-color": "#c92816",
-        "marker-size": "medium",
+        "marker-size": "small",
         "marker-symbol": ""
       }
     },
@@ -31,7 +31,7 @@
       "properties": {
         "name": "Jeti Penumpang Mersing",
         "marker-color": "#c92816",
-        "marker-size": "medium",
+        "marker-size": "small",
         "marker-symbol": ""
       }
     },
@@ -48,7 +48,7 @@
       "properties": {
         "name": "Kuala Lumpur",
         "marker-color": "#c92816",
-        "marker-size": "medium",
+        "marker-size": "small",
         "marker-symbol": ""
       }
     },
@@ -65,7 +65,7 @@
       "properties": {
         "name": "Pulau Pangkor",
         "marker-color": "#c92816",
-        "marker-size": "medium",
+        "marker-size": "small",
         "marker-symbol": ""
       }
     },
@@ -82,7 +82,7 @@
       "properties": {
         "name": "Parit Buntar",
         "marker-color": "#c92816",
-        "marker-size": "medium",
+        "marker-size": "small",
         "marker-symbol": ""
       }
     },
@@ -99,7 +99,7 @@
       "properties": {
         "name": "Butterworth",
         "marker-color": "#c92816",
-        "marker-size": "medium",
+        "marker-size": "small",
         "marker-symbol": ""
       }
     },
@@ -116,7 +116,7 @@
       "properties": {
         "name": "Kuah",
         "marker-color": "#c92816",
-        "marker-size": "medium",
+        "marker-size": "small",
         "marker-symbol": ""
       }
     },
@@ -133,7 +133,7 @@
       "properties": {
         "name": "Tanjung Rhu Beach",
         "marker-color": "#c92816",
-        "marker-size": "medium",
+        "marker-size": "small",
         "marker-symbol": ""
       }
     },
@@ -149,7 +149,7 @@
       "properties": {
         "name": "Langkawi Airport",
         "marker-color": "#c92816",
-        "marker-size": "medium",
+        "marker-size": "small",
         "marker-symbol": ""
       }
     },
@@ -165,7 +165,7 @@
       "properties": {
         "name": "Pulau Tioman",
         "marker-color": "#c92816",
-        "marker-size": "medium",
+        "marker-size": "small",
         "marker-symbol": ""
       }
     },
@@ -5084,7 +5084,7 @@
       },
       "properties": {
         "marker-color": "#c92816",
-        "marker-size": "medium",
+        "marker-size": "small",
         "marker-symbol": "",
         "name": "Changi, Singapur"
       }
@@ -31311,7 +31311,7 @@
       },
       "properties": {
         "marker-color": "#c92816",
-        "marker-size": "medium",
+        "marker-size": "small",
         "marker-symbol": "",
         "name": "Parit Buntar"
       }
@@ -38265,7 +38265,7 @@
       },
       "properties": {
         "marker-color": "#c92816",
-        "marker-size": "medium",
+        "marker-size": "small",
         "marker-symbol": "",
         "name": "Langkawi Airport"
       }
@@ -38282,7 +38282,7 @@
       },
       "properties": {
         "marker-color": "#316a89",
-        "marker-size": "medium",
+        "marker-size": "small",
         "marker-symbol": ""
       }
     },
@@ -38298,7 +38298,7 @@
       },
       "properties": {
         "marker-color": "#316a89",
-        "marker-size": "medium",
+        "marker-size": "small",
         "marker-symbol": ""
       }
     },
