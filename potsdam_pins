@@ -9020,7 +9020,9 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "marker-color": "#316a89"
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -9031,7 +9033,9 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "marker-color": "#316a89"
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -9042,7 +9046,9 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "marker-color": "#316a89"
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -9053,7 +9059,9 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "marker-color": "#316a89"
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -9064,7 +9072,9 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "marker-color": "#316a89"
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -9075,7 +9085,9 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "marker-color": "#316a89"
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -9086,7 +9098,9 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "marker-color": "#316a89"
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -9097,7 +9111,9 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "marker-color": "#316a89"
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -9108,7 +9124,9 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "marker-color": "#316a89"
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -9119,7 +9137,9 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "marker-color": "#316a89"
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -9130,7 +9150,9 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "marker-color": "#316a89"
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
