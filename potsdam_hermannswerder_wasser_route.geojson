@@ -288,9 +288,8 @@
         ]
       },
       "properties": {
-        "fill": "#555555",
         "fill-opacity": 0,
-        "stroke": "#316a89",
+        "stroke": "#c92816",
         "stroke-width": 5,
         "stroke-opacity": 1
       }
