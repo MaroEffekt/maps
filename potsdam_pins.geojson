@@ -9078,47 +9078,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          13.096577525138855,
-          52.39836438989592
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "marker-color": "#316a89"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           13.065941333770752,
           52.39538813693479
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "marker-color": "#316a89"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          13.053528070449829,
-          52.40025216475627
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "marker-color": "#316a89"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          13.050945103168488,
-          52.3994338934158
         ]
       }
     },
@@ -9158,6 +9119,58 @@
         "coordinates": [
           13.060567528009413,
           52.40251051491811
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#316a89"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.059310913085936,
+          52.39122415559037
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#316a89"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.056864738464355,
+          52.400664567760536
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#316a89"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.048911988735197,
+          52.399960861898556
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#316a89"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.095252513885498,
+          52.39786931636809
         ]
       }
     }
