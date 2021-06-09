@@ -56609,6 +56609,11 @@
         ]
       },
       "properties": {
+        "stroke": "#316a89",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#c92816",
+        "fill-opacity": 0.5,
         "osm_id": -536807,
         "boundary": "administrative",
         "admin_level": 2,
@@ -151622,6 +151627,11 @@
         ]
       },
       "properties": {
+        "stroke": "#316a89",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#c92816",
+        "fill-opacity": 0.5,
         "osm_id": -2145268,
         "boundary": "administrative",
         "admin_level": 4,
