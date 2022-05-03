@@ -349,7 +349,7 @@
         ]
       },
       "properties": {
-        "name": "Butterworth Line"
+        "name": "Butterworth Line",
         "stroke": "#c92816",
         "stroke-width": 5,
         "stroke-opacity": 1
@@ -366,7 +366,7 @@
         ]
       },
       "properties": {
-        "name": "Flughafen Bangkok-Suvarnabhumi"
+        "name": "Flughafen Bangkok-Suvarnabhumi",
         "marker-color": "#316a89",
         "marker-size": "small",
         "marker-symbol": ""
@@ -383,7 +383,7 @@
         ]
       },
       "properties": {
-        "name": "Bangkok Train Station"
+        "name": "Bangkok Train Station",
         "marker-color": "#316a89",
         "marker-size": "small",
         "marker-symbol": ""
@@ -400,7 +400,7 @@
         ]
       },
       "properties": {
-        "name": "Prachuap Khiri Khan"
+        "name": "Prachuap Khiri Khan",
         "marker-color": "#316a89",
         "marker-size": "small",
         "marker-symbol": ""
@@ -417,7 +417,7 @@
         ]
       },
       "properties": {
-        "name": "Chumphon Railway Station"
+        "name": "Chumphon Railway Station",
         "marker-color": "#316a89",
         "marker-size": "small",
         "marker-symbol": ""
@@ -434,7 +434,7 @@
         ]
       },
       "properties": {
-        "name": "Donsak Pier Surat Thani"
+        "name": "Donsak Pier Surat Thani",
         "marker-color": "#316a89",
         "marker-size": "small",
         "marker-symbol": ""
@@ -451,7 +451,7 @@
         ]
       },
       "properties": {
-        "name": "Koh Phangan (Thong Sala Pier)"
+        "name": "Koh Phangan (Thong Sala Pier)",
         "marker-color": "#316a89",
         "marker-size": "small",
         "marker-symbol": ""
@@ -10220,7 +10220,7 @@
         ]
       },
       "properties": {
-        "name": "Route von Chumphon Railway Station nach Surat Thani Bus Station 1, Makham Tia, Amphoe Mueang Surat Thani, Surat Thani"
+        "name": "Route von Chumphon Railway Station nach Surat Thani Bus Station 1, Makham Tia, Amphoe Mueang Surat Thani, Surat Thani",
         "stroke": "#c92816",
         "stroke-width": 5,
         "stroke-opacity": 1
@@ -10237,7 +10237,7 @@
         ]
       },
       "properties": {
-        "name": "Chumphon Railway Station"
+        "name": "Chumphon Railway Station",
         "marker-color": "#316a89",
         "marker-size": "small",
         "marker-symbol": ""
@@ -10254,7 +10254,7 @@
         ]
       },
       "properties": {
-        "name": "Surat Thani Bus Station 1, Makham Tia, Amphoe Mueang Surat Thani, Surat Thani"
+        "name": "Surat Thani Bus Station 1, Makham Tia, Amphoe Mueang Surat Thani, Surat Thani",
         "marker-color": "#316a89",
         "marker-size": "small",
         "marker-symbol": ""
@@ -13648,7 +13648,7 @@
         ]
       },
       "properties": {
-        "name": "Route von Surat Thani Bus Station 1, Makham Tia, Amphoe Mueang Surat Thani, Surat Thani nach Koh Phangan (Thong Sala Pier)"
+        "name": "Route von Surat Thani Bus Station 1, Makham Tia, Amphoe Mueang Surat Thani, Surat Thani nach Koh Phangan (Thong Sala Pier)",
         "stroke": "#c92816",
         "stroke-width": 5,
         "stroke-opacity": 1
@@ -13665,7 +13665,7 @@
         ]
       },
       "properties": {
-        "name": "Surat Thani Bus Station 1, Makham Tia, Amphoe Mueang Surat Thani, Surat Thani"
+        "name": "Surat Thani Bus Station 1, Makham Tia, Amphoe Mueang Surat Thani, Surat Thani",
         "marker-color": "#316a89",
         "marker-size": "small",
         "marker-symbol": ""
@@ -13682,7 +13682,7 @@
         ]
       },
       "properties": {
-        "name": "Donsak Pier Surat Thani, Don Sak, Amphoe Don Sak, Surat Thani"
+        "name": "Donsak Pier Surat Thani, Don Sak, Amphoe Don Sak, Surat Thani",
         "marker-color": "#316a89",
         "marker-size": "small",
         "marker-symbol": ""
@@ -13699,7 +13699,7 @@
         ]
       },
       "properties": {
-        "name": "Koh Phangan (Thong Sala Pier)"
+        "name": "Koh Phangan (Thong Sala Pier)",
         "marker-color": "#316a89",
         "marker-size": "small",
         "marker-symbol": ""
