@@ -13676,6 +13676,57 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          99.962611,
+          9.77242,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Bounty Resort, 85/1 Moo 8, Had Dao Deuk Koh Phangan, เกาะพะงัน, Surat Thani 84280",
+        "marker-color": "#316a89",
+        "marker-size": "small",
+        "marker-symbol": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          99.998639,
+          9.787326,
+          0
+        ]
+      },
+      "properties": {
+        "name": "So Sunland, 105/12-19 Moo 7 Ban Chaloklum, Chaloklum",
+        "marker-color": "#316a89",
+        "marker-size": "small",
+        "marker-symbol": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.052217,
+          9.782833,
+          0
+        ]
+      },
+      "properties": {
+        "name": "The Hill Village, Tambon Ban Tai, Ko Pha-ngan District, Surat Thani 84280",
+        "marker-color": "#316a89",
+        "marker-size": "small",
+        "marker-symbol": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           99.735227,
           9.3213056,
           0
